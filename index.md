@@ -8,7 +8,7 @@
 
 ### Research
 
-- The setup steps were describes thoroughly in [crash course in apiman](http://www.apiman.io/latest/crash-course.html#_getting_the_bits_downloading_apiman)
+- The configuration steps were described thoroughly in [crash course in apiman](http://www.apiman.io/latest/crash-course.html#_getting_the_bits_downloading_apiman)
 - It was not always obvious in online apiman documents which version of apiman they referred to. So some of the instructions are invalid. One source indicated that the apiman quickstarts apis are preconfigured in apiman; they are not, for the version I installed.
 
 
