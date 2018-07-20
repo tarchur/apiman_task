@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Apiman task
 
-You can use the [editor on GitHub](https://github.com/tarchur/apiman_task/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Tools
+- I decided to use linux tools for this project.
+- I used docbook to create the source file, then pandoc to generate the PDF.
+ - I used the default stylesheet, so the PDF looks like a standard LaTex document.
+- I edited the docbook file using vim , on a Fedora 28 Workstation platform.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research
 
-### Markdown
+- The setup steps were describes thoroughly in [crash course in apiman](http://www.apiman.io/latest/crash-course.html#_getting_the_bits_downloading_apiman)
+- It was not always obvious in online apiman documents which version of apiman they referred to. So some of the instructions are invalid. One source indicated that the apiman quickstarts apis are preconfigured in apiman; they are not, for the version I installed.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<!--**Bold** and _Italic_ and `Code` text
+[Link](url) and ![Image](src)-->
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tarchur/apiman_task/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
