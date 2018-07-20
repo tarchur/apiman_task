@@ -4,6 +4,7 @@
 - I used linux tools for this task.
 - I used docbook to create the source file, then pandoc to generate the PDF.
  - I used the default stylesheet, so the PDF looks like a standard LaTex document.
+ - Also, the fonts  for console input and output were not the same as the Red Hat fonts.
 - I edited the docbook file using vim , on a Fedora 28 Workstation platform.
 
 ### Research
